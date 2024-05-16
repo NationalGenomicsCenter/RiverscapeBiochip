@@ -4,7 +4,7 @@ Datasets and scripts used for the development and validation of a HT-qPCR biochi
 
 ## File guide
 
-•	Master_Long_PNW10242023.csv – Dataset containing paired HT-qPCR and ST-qPCR results for all 367 environmental samples used for biochip development and validation, required for htqpcr_concordance_kappa_240424.R script.
+•	Master_Long_PNW10242023.csv – Dataset containing paired HT-qPCR and ST-qPCR results for all 367 environmental samples used for biochip validation (i.e., concordance testing), required for htqpcr_concordance_kappa_240424.R script.
 
 •	eDNAssay_cross_amp_HTqPCR.csv - Dataset containing information on putative cross-amplifications of taxon-specific assays with tissue samples on the HT-qPCR platform described in Appendix 2, required for eDNAssay_cross_amp_HTqPCR_240424.R script. 
 
