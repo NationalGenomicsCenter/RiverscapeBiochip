@@ -1,4 +1,4 @@
-# RiverscapeBiochip DOI: 10.5281/zenodo.13651524
+# RiverscapeBiochip 
 
 Datasets and scripts used for the development and validation of a HT-qPCR biochip (i.e., biochip) protocol for simultaneous detection of 10 freshwater fishes.
 
@@ -16,3 +16,5 @@ Datasets and scripts used for the development and validation of a HT-qPCR biochi
 
 ## Contact information
 Please reach out to us at the National Genomics Center for Wildlife and Fish Conservation with any questions or comments. Scripts and data summaries were created by Joanna Elmore at joanna.elmore@usda.gov, John Kronenberger at john.kronenberger@usda.gov, and Taylor Wilcox at taylor.wilcox@usda.gov.
+
+DOI: 10.5281/zenodo.13651524
