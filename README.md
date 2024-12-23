@@ -1,6 +1,6 @@
 # RiverscapeBiochip 
 
-Datasets and scripts used for the development and validation of a HT-qPCR biochip (i.e., biochip) protocol for simultaneous detection of 10 freshwater fishes.
+Datasets and scripts used for the development and validation of a HT-qPCR biochip (i.e., biochip) protocol for simultaneous detection of 10 freshwater fishes. The publication for this work can be found at: https://doi.org/10.1139/cjfas-2024-0143 and https://research.fs.usda.gov/treesearch/68778 (full text available).
 
 ## File guide
 
